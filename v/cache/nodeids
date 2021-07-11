@@ -1,0 +1,7 @@
+[
+  "api_test/test_createuser.py::Test_postapi::test_create",
+  "api_test/test_deleteuser.py::Test_deleteapi::test_delete",
+  "api_test/test_getuser.py::Test_callapi::test_api",
+  "api_test/test_getuser.py::Test_callapi::test_errorcode",
+  "api_test/test_updateuser.py::Test_putapi::test_update"
+]

@@ -1,0 +1,3 @@
+{
+  "api_test/test_getuser.py::Test_callapi::test_errorcode": true
+}
